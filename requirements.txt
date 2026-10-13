@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pillow
+pytest
+# Notebook 01 also needs the course helper package:
+# pip install git+https://github.com/ckurtz/cs294-158-ssl
